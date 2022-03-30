@@ -63,19 +63,21 @@
 ```
 Referee can create a game by clicking on the Create Game button.
 ```
+![image001](https://user-images.githubusercontent.com/9867822/160947390-37060589-16c9-438d-9477-90e6a20cedda.png)
+
 ```
 Figure 3.1.1 Landing Page
 ```
 
 Referee must set a main claim while creating a new game session.
-
+![image003](https://user-images.githubusercontent.com/9867822/160947388-055b79c7-9c78-4550-b953-c06b331d41a9.png)
 ```
 Figure 3.1.2 Creating/Starting a Game
 ```
 After finishing creating a new game session the Referee will have the starter game page
 from where room code is displayed and that code is copyable by one click and can distribute
 to the users.
-
+![image005](https://user-images.githubusercontent.com/9867822/160947387-1b158272-fcb0-40a7-a323-f4861ec5dc0d.png)
 ```
 Figure 3.1.3 Game Page View Admin
 ```
@@ -83,52 +85,54 @@ Figure 3.1.3 Game Page View Admin
 After getting the room code, users can join the game session. By default random names are
 generated for players who want to remain anonymous. Players can edit and write their own
 names.
-
+![image007](https://user-images.githubusercontent.com/9867822/160947385-9c05f58b-6102-4905-9e6d-4bf56538061b.png)
 ```
 Figure 3.1.4 User Joining a game
 ```
 After joining the game, the user can view the game page and can see the main claim set by
 the Referee. Players can vote on the main claim. A coloured bar is used as a visual
 representation showing the voting statistics on the Main Claim by players.
-
+![image009](https://user-images.githubusercontent.com/9867822/160947382-d60f5a7f-c8ef-4254-8f8d-b524206fb3b1.png)
 ```
 Figure 3.1.5 User vote on the straw poll
 ```
 The Referee has the ability to edit the Main Claim especially if a large number of players are
 convinced and the referee would like to change the main claim to something more
 debatable.
-
+![image011](https://user-images.githubusercontent.com/9867822/160947381-16c8d143-b0f8-49e6-b642-6a3e86a9b6dd.png)
 ```
 Figure 3.1.6 Referee can edit the main claim
 ```
 
 After the initial Strawpoll Players and the Referee can submit their reasons to support or
 reject the main claim
-
+![image013](https://user-images.githubusercontent.com/9867822/160947380-639fead8-c4bf-487d-8b7b-502e70aa2bf3.png)
 ```
 Figure 3.1.7 Referee/Player can add reason to play
 ```
+![image015](https://user-images.githubusercontent.com/9867822/160947378-705d0543-10eb-4535-a7aa-e36a78cc58a7.png)
 ```
 Figure 3.1.8 Reason To List Item
 ```
 All the submitted reasons to play are shown on the Reason To Play list. From the list Players
 can vote to discuss or ignore any reason. Both the Referee and the Players are updated on
 the voting statistics of each Reason To Play on the list
-
+![image017](https://user-images.githubusercontent.com/9867822/160947377-f5e948e0-2359-472c-9349-4ec15521f79c.png)
 ```
 Figure 3.1.9 Players can vote on reason to play
 ```
 
 Players can edit their own Reason To Play that they added. The Referee can also edit any
 Player reason to play
-
+![image019](https://user-images.githubusercontent.com/9867822/160947375-629777a5-aced-4a7f-82cd-140851d1559e.png)
 ```
 Figure 3.1.10 Referee and Players can edit reason to play
 ```
+![image021](https://user-images.githubusercontent.com/9867822/160947372-736f8062-0788-4d8d-9cbb-2fbe4a84737e.png)
 ```
 Figure 3.1.11 Referee and Players can view of Reason to play list
 ```
-
+![image023](https://user-images.githubusercontent.com/9867822/160947371-5939fa42-39d7-494a-bf7a-430872588f2d.png)
 ```
 Figure 3.1.12 Admin view of Reason to play list
 ```
@@ -137,38 +141,38 @@ Referee.
 Players and the Referee can see the current reason in play and while going through the
 discussion, they can vote on the current reason in play and also be able to change their
 vote.
-
+![image025](https://user-images.githubusercontent.com/9867822/160947369-39fc8a62-b268-402c-b732-7ef0ee241635.png)
 ```
 Figure 3.1.13 User can vote on the current reason in play
 ```
 
 According to the vote of the users the live graph of vote will be shown using a doughnut
 chart.
-
+![image027](https://user-images.githubusercontent.com/9867822/160947367-6b2bfe00-ed2c-49e3-b9fc-5576ba66cfc7.png)
 ```
 Figure 3.1.14 Live vote of the reason in play
 ```
 Referee can move any current reason in play to an established ground list. Referee can also
 edit any current reason in play.
-
+![image029](https://user-images.githubusercontent.com/9867822/160947365-37e181b9-9592-4890-a61b-3e46e3a1c76d.png)
 ```
 Figure 3.1.15 Admin can begin bout and start reason in play
 ```
 After the referee establishes a rip then that will be shown in the established ground list.
 
-
+![image031](https://user-images.githubusercontent.com/9867822/160947364-4d88d88d-66b1-4097-b163-acc26ceb5688.png)
 ```
 Figure 3.1.16 Admin can establish a ground
 ```
 Before finishing the game, the referee can start the final poll voting for the main claim.
-
+![image033](https://user-images.githubusercontent.com/9867822/160947363-9a90b90f-3dfd-4dcc-aee6-8021f148ffce.png)
 ```
 Figure 3.1.17 Admin view
 ```
 While the final poll voting starts , all component will go away only main claim and established
 grounds list will be shown. Considering all these users will vote for the final poll.
 
-
+![image035](https://user-images.githubusercontent.com/9867822/160947362-8faef152-6585-4485-ba73-15ea9cf4321c.png)
 ```
 Figure 3.1.18 Final Poll
 ```
@@ -177,6 +181,7 @@ After the vote for the final poll ends, the referee can finish the game and see 
 Those who changed their opinions are the real winners. Two lists will be shown who
 changed their votes from not yet persuaded to convinced and vice versa.
 ```
+![image037](https://user-images.githubusercontent.com/9867822/160947361-e2c4a9cd-d106-445b-ba10-85ef4a6271ce.png)
 ```
 Figure 3.1.19 Final Result
 ```
@@ -200,7 +205,7 @@ fast enough to accommodate the number of reads and writes that could be happenin
 
 #### 4.2. Database Architecture:
 
-
+![image039](https://user-images.githubusercontent.com/9867822/160947360-bbba7351-8268-45d6-af9c-125d3c82b59c.png)
 ```
 Entity Relationship Diagram of Tug-of-Logic
 ```
@@ -234,6 +239,7 @@ with an added Established or Contested counter to keep track of player votes. Ea
 ReasonInPlay can be moved to an EstablishedGrounds which stores each reason as a
 HashSet.
 
+![image041](https://user-images.githubusercontent.com/9867822/160947359-537209a5-d919-45a7-b4be-144d2842db6f.png)
 ```
 RedisCommander View of Tug-of-Logic Game
 ```
@@ -247,7 +253,7 @@ The main responsibility of the server is:
 3. Handle socket connections to allow users play the game in a virtual room
 4. Communicate with users on events that occur in a game session
 
-
+![image043](https://user-images.githubusercontent.com/9867822/160947358-b047910e-fe10-4c1c-b4c1-041ea9fcdcda.png)
 ```
 Node.js + Socket.IO Connections
 ```
@@ -270,6 +276,7 @@ occurred. Plus, there will be multiple events happening externally outside of th
 system at once and clients need to be updated in real time to know and view the changes
 that occurred.
 
+![image045](https://user-images.githubusercontent.com/9867822/160947357-19686df6-c7fd-4d60-a17e-df532a0e954d.png)
 ```
 WebSocket BiDirection Communication
 ```
@@ -285,7 +292,7 @@ WebSocket BiDirection Communication
 
 ###### database transactions.
 
-
+![image047](https://user-images.githubusercontent.com/9867822/160947355-0f4c56c1-5c93-453f-8f62-f33a0b8ad5f5.png)
 #### 4.4. Front End Architecture:
 
 ##### 4.4.1. User Interface Development with React
@@ -298,7 +305,7 @@ changes in state and updates the view based on changes to state. This means that
 there is a change in the app state the browser doesn’t have to reload the whole page instead
 the component containing the corresponding state that has changed is updated.
 
-
+![image049](https://user-images.githubusercontent.com/9867822/160947354-2d25ef43-90aa-4707-9866-09d1c0f96846.png)
 ```
 Figure 4.5.1.1: React Division of Components for the Tug of Logic Game
 ```
@@ -329,7 +336,7 @@ state container for JavaScript that manages an applications state and triggers a
 change the state of the application. Redux was used to manage the state of the game in the
 user's browser and dictate what changes in state should occur when an action is emitted by
 the server.
-
+![image051](https://user-images.githubusercontent.com/9867822/160947352-6533104d-462e-416b-8e3d-6033a17689a1.png)
 ```
 Figure 4.5.2.1: React + Redux Architecture
 ```
@@ -368,12 +375,13 @@ Every time the socket middleware receives an event from the server it dispatches
 to the redux store with the information received. Whenever a dispatch action is triggered and
 matches any set list of actions in the socket middleware, the middleware emits the
 information in the dispatch action to the server.
-
+![image053](https://user-images.githubusercontent.com/9867822/160947351-bdfee92f-ae33-4f9f-9df8-99c7a84c7c82.png)
 ```
 Figure 4.5.3.1: React + Redux Architecture with Socket.IO-Client Integration
 ```
-Figure 4.5.3.2 is an example of socket-io middleware implementation with redux.
 
+Figure 4.5.3.2 is an example of socket-io middleware implementation with redux.
+```jsx
 const createSocketMiddleware = () => {
 /**
 * Data emitted from the server should be placed here.
@@ -419,7 +427,7 @@ return next(action);
 };
 };
 };
-
+```
 ```
 Figure 4.5.3.2: Socket Implementation Example
 ```
