@@ -2,12 +2,6 @@
 
 ##### A Philosophy Sports Web Application
 
-## Members:
-
-## Japheth Ishola Oluwatobi - 300321326 - Section 091
-
-## Mir Ayon Elahi - 300314031 - Section 091
-
 
 ## 1. Problem Statement:
 
